@@ -1,0 +1,8 @@
+**/*.exe
+*.exe
+.vscode/
+**/.vscode/
+알고리즘 커리큘럼.md
+**/*.obj
+**/*.pdb
+**/*.ilk
